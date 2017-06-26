@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://file.cunzhangzaixian.com/ios_app/app.ipa</string>
+					<string>https://raw.githubusercontent.com/garmiter/ios_app/master/app.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
